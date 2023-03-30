@@ -61,17 +61,17 @@ function CssDesign() {
                 </label>
               </div>
             </div>
-            {/* <div className="avatar">
+            <div className="avatar">
               <div className="avatar1">
-                <img src={user1} className="avatarImage" alt="user1"/>
+                <img src={user1} className="avatarImage" alt="user1" />
               </div>
               <div className="avatar2">
-                <img src={user2} className="avatarImage" alt="user2"/>
+                <img src={user2} className="avatarImage" alt="user2" />
               </div>
               <div className="avatar3">
-                <img src={user3} className="avatarImage" alt="user3"/>
+                <img src={user3} className="avatarImage" alt="user3" />
               </div>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>
