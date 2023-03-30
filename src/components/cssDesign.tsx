@@ -4,9 +4,9 @@ import travel2 from "../images/travel2.jpg";
 import travel3 from "../images/travel3.jpg";
 import travel5 from "../images/travel5.jpg";
 import travel from "../images/travel.png";
-// import user1 from "../images/user1.jpg";
-// import user2 from "../images/user2.jpg";
-// import user3 from "../images/user3.jpg";
+import user1 from "../images/user1.jpg";
+import user2 from "../images/user2.jpg";
+import user3 from "../images/user3.jpg";
 import { useState } from "react";
 
 function CssDesign() {
@@ -61,7 +61,7 @@ function CssDesign() {
                 </label>
               </div>
             </div>
-            {/* <div className="avatar">
+            <div className="avatar">
               <div className="avatar1">
                 <img src={user1} className="avatarImage" alt="user1" />
               </div>
@@ -71,7 +71,7 @@ function CssDesign() {
               <div className="avatar3">
                 <img src={user3} className="avatarImage" alt="user3" />
               </div>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>
