@@ -16,7 +16,7 @@ function CssDesign() {
       <div className="dropdownMenu">
         <div className="travelDiv">
           {" "}
-          <img src={travel} className="travelImage" />
+          <img src={travel} className="travelImage" alt="travel"/>
         </div>
         <div className="menu" onClick={() => setDropdown(!dropdown)}>
           <div className="bar-default" />
@@ -63,13 +63,13 @@ function CssDesign() {
             </div>
             <div className="avatar">
               <div className="avatar1">
-                <img src={user1} className="avatarImage" />
+                <img src={user1} className="avatarImage" alt="user1"/>
               </div>
               <div className="avatar2">
-                <img src={user2} className="avatarImage" />
+                <img src={user2} className="avatarImage" alt="user2"/>
               </div>
               <div className="avatar3">
-                <img src={user3} className="avatarImage" />
+                <img src={user3} className="avatarImage" alt="user3"/>
               </div>
             </div>
           </div>
@@ -90,19 +90,19 @@ function CssDesign() {
           <div className="images">
             <div className="travelImg">
               {" "}
-              <img src={travel1} className="image1" />
+              <img src={travel1} className="image1" alt="travel1"/>
             </div>
             <div className="travelImg">
               {" "}
-              <img src={travel2} className="image1" />
+              <img src={travel2} className="image1" alt="travel2"/>
             </div>
             <div className="travelImg">
               {" "}
-              <img src={travel3} className="image1" />
+              <img src={travel3} className="image1" alt="travel3"/>
             </div>
             <div className="travelImg">
               {" "}
-              <img src={travel5} className="image1" />
+              <img src={travel5} className="image1" alt="travel5"/>
             </div>
           </div>
         </div>
