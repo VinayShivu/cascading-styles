@@ -16,7 +16,7 @@ function CssDesign() {
       <div className="dropdownMenu">
         <div className="travelDiv">
           {" "}
-          <img src={travel} className="travelImage" />
+          <img src={travel} className="travelImage" alt="travel"/>
         </div>
         <div className="menu" onClick={() => setDropdown(!dropdown)}>
           <div className="bar-default" />
