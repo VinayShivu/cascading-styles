@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
-import BarGraph from "./components/barGraph";
+// import BarGraph from "./components/barGraph";
 import CssDesign from "./components/cssDesign";
-import { gradeData } from "./config/gradeData";
+// import { gradeData } from "./config/gradeData";
 
 function App() {
   return (
