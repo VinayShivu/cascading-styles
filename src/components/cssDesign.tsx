@@ -61,7 +61,7 @@ function CssDesign() {
                 </label>
               </div>
             </div>
-            <div className="avatar">
+            {/* <div className="avatar">
               <div className="avatar1">
                 <img src={user1} className="avatarImage" alt="user1" />
               </div>
@@ -71,7 +71,7 @@ function CssDesign() {
               <div className="avatar3">
                 <img src={user3} className="avatarImage" alt="user3" />
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
